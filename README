@@ -1,0 +1,5 @@
+to build:
+go to the top level folder
+execute: mvn install
+(maven needs to be installed)
+then, a target folder will get created with the hpi file.
